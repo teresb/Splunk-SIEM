@@ -1,6 +1,6 @@
 # Splunk SIEM Lab & Threat Detection Project
 ## Objective
-To simulate a Security Operations Center (SOC) environment by ingesting log data into Splunk SIEM, analyzing events, and creating detection rules to identify potential security threats.
+-To simulate a Security Operations Center (SOC) environment by ingesting log data into Splunk SIEM, analyzing events, and creating detection rules to identify potential security threats.
 ---
 
 ## Tools Used
