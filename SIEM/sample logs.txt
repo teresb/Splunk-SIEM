@@ -1,0 +1,14 @@
+2026-03-22 10:01:23 INFO User login successful user=admin src_ip=192.168.1.10
+2026-03-22 10:02:11 ERROR Failed login attempt user=admin src_ip=192.168.1.15
+2026-03-22 10:02:15 ERROR Failed login attempt user=admin src_ip=192.168.1.15
+2026-03-22 10:02:18 ERROR Failed login attempt user=admin src_ip=192.168.1.15
+2026-03-22 10:02:21 ERROR Failed login attempt user=admin src_ip=192.168.1.15
+2026-03-22 10:02:25 ERROR Failed login attempt user=admin src_ip=192.168.1.15
+2026-03-22 10:03:02 INFO User login successful user=john src_ip=192.168.1.20
+2026-03-22 10:04:45 WARNING Multiple failed logins detected user=admin src_ip=192.168.1.15
+2026-03-22 10:05:10 INFO File accessed user=john file=report.pdf
+2026-03-22 10:06:33 ERROR Failed login attempt user=root src_ip=10.0.0.5
+2026-03-22 10:06:36 ERROR Failed login attempt user=root src_ip=10.0.0.5
+2026-03-22 10:06:40 ERROR Failed login attempt user=root src_ip=10.0.0.5
+2026-03-22 10:07:01 CRITICAL Possible brute force attack detected src_ip=192.168.1.15
+2026-03-22 10:08:22 INFO User logout user=admin
